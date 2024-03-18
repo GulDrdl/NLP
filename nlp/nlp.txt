@@ -1,0 +1,75 @@
+En çok geçen 20 kelime:
+güzel
+bir
+tam
+ürün
+aldım
+numara
+geldi
+rahat
+büyük
+oldu
+kaliteli
+alın
+iyi
+gayet
+numaranızı
+küçük
+kendi
+ederim
+biraz
+iade
+
+Her bir kelimenin en benzer 5 kelimesi:
+güzel: ['göründüğü', 'harika', 'kaliteli', 'beklediğimden', 'beğendim']
+bir: ['bi', 'mutlaka', 'bence', 'bı', 'almalısınız']
+tam: ['ayak', 'kalıp', 'alın', 'kendi', 'numaranız']
+ürün: ['harika', 'kaliteli', 'gerçekten', 'kullanışlı', 'beklediğimden']
+aldım: ['giyiniyorum', 'oldu', 'yorumlara', 'bedenimi', 'ben']
+numara: ['kalıbı', 'küçük', 'büyük', 'alınmalı', 'beden']
+geldi: ['büyüğünü', 'ayağıma', 'söyledim', 'verdim', 'giyen']
+rahat: ['duruşu', 'duruyor', 'rengi', 'kullanışlı', 'bayıldım']
+büyük: ['küçük', 'numara', 'kalıbı', 'alınmalı', 'alınabilir']
+oldu: ['giyiyorum', 'normalde', 'yorumlara', 'aldım', 'numaram']
+kaliteli: ['şık', 'kullanışlı', 'harika', 'güzel', 'gayet']
+alın: ['ayak', 'kendi', 'tam', 'kalıp', 'alabilirsiniz']
+iyi: ['beklediğimden', 'aldık', 'kalitesi', 'fiyata', 'başarılı']
+gayet: ['kaliteli', 'şık', 'ürün', 'kullanışlı', 'fiyata']
+numaranızı: ['alabilirsiniz', 'bedeninizi', 'kendi', 'kalıp', 'alın']
+küçük: ['numara', 'büyük', 'alınmalı', 'alınabilir', 'kalıbı']
+kendi: ['alabilirsiniz', 'ayak', 'alın', 'bedeninizi', 'tam']
+ederim: ['edilir', 'şiddetle', 'ediyorum', 'herkese', 'ederiz']
+biraz: ['bacaklarım', 'sıktı', 'olduğu', 'bacak', 'baldır']
+iade: ['üzülerek', 'etmek', 'geldiği', 'yüzden', 'ettim']
+
+Seçili 5 farklı cümle ve en benzer 3 cümle:
+Seçili 1. cümle: arkadaşımıza hediye aldık iyi orjinal teşekürler trendyol
+En benzer 3 cümle:
+  - Derlemdeki 501. cümle (Benzerlik: 1.000000): arkadaşımıza hediye aldık iyi orjinal teşekürler trendyol
+  - Derlemdeki 8125. cümle (Benzerlik: 0.999264): babam almıştım beğendi işçilik kalite mükemmel
+  - Derlemdeki 3245. cümle (Benzerlik: 0.999192): hediye almıştım güzel çıktı
+  - Derlemdeki 6569. cümle (Benzerlik: 0.998998): indirimdeyken babama hediye olarak aldim uygun kaliteli
+Seçili 2. cümle: ürün orjinal
+En benzer 3 cümle:
+  - Derlemdeki 1001. cümle (Benzerlik: 1.000000): ürün orjinal
+  - Derlemdeki 1133. cümle (Benzerlik: 1.000000): orjinal ürün
+  - Derlemdeki 1581. cümle (Benzerlik: 0.999979): ürün orjinal güvenebilirsiniz
+  - Derlemdeki 1096. cümle (Benzerlik: 0.999857): ürün orijinal brğrndimm
+Seçili 3. cümle: su kar geçirmiyor ayaklarınızın üşümemesini istiyorsanız mükemmel bir ürün
+En benzer 3 cümle:
+  - Derlemdeki 1501. cümle (Benzerlik: 1.000000): su kar geçirmiyor ayaklarınızın üşümemesini istiyorsanız mükemmel bir ürün
+  - Derlemdeki 1255. cümle (Benzerlik: 0.999346): mükemmel ürün şeyle kombinliyprum ağır zamanla alışılıyor
+  - Derlemdeki 1339. cümle (Benzerlik: 0.999092): mükemmel tek kelimeyle yılların değiştirmediği çizme hangi yıl giyerseniz giyin hala şık duruyor garantili ürün zaten kötü çıkma ihtimali yok
+  - Derlemdeki 2224. cümle (Benzerlik: 0.998949): güzel kaliteli su almıyor vuruyor
+Seçili 4. cümle: ürün yanlış geldi ben kayseriden siparış verdim çorum adresli bir faturaya ait bambaşka bir ürün gönderilmiş
+En benzer 3 cümle:
+  - Derlemdeki 2001. cümle (Benzerlik: 1.000000): ürün yanlış geldi ben kayseriden siparış verdim çorum adresli bir faturaya ait bambaşka bir ürün gönderilmiş
+  - Derlemdeki 6876. cümle (Benzerlik: 0.999793): ürün güzel istediğiniz önemli tabi gerçekten memnunuz kargo süreci gönderimi tek sorun bir yada iki numara küçük alınabilir
+  - Derlemdeki 5992. cümle (Benzerlik: 0.999553): satıcı hemen kargoladı sağlam bir şekilde elime ulaştıbot gayet rahat kullanışlıbir numara küçük alınabilir farketmez
+  - Derlemdeki 11389. cümle (Benzerlik: 0.999474): ürün kaliteli sipariş ettiğim halde göndermişler bir dikkatsizliktir
+Seçili 5. cümle: tl olan sıfır botun gönderilme şekli ürün şimdi sıfır ürün tl eder mi yazıklar olsun mi bakmazsın gönderirken
+En benzer 3 cümle:
+  - Derlemdeki 2501. cümle (Benzerlik: 1.000000): tl olan sıfır botun gönderilme şekli ürün şimdi sıfır ürün tl eder mi yazıklar olsun mi bakmazsın gönderirken
+  - Derlemdeki 5012. cümle (Benzerlik: 0.999616): ürünün görselle alakası yönden yanlar görselde dikişli gelen ürün yapıştırma umarım açılma olmaz
+  - Derlemdeki 2531. cümle (Benzerlik: 0.999532): harley yazısı öndeki yamuk gönderildi bacağım yamuk durdu ürün defoluydu
+  - Derlemdeki 1709. cümle (Benzerlik: 0.999510): çizmenin nubuk versiyonunu yedi yıl giyip eskittim tekrardan aldım kargo özensizdi çizmenin yeri yapışkan lekesiydi ayrıca sıfır ürün değil mağazadaki denenen ürün gönderilmiş sol bacak sağdan boldu resmen açılmış burada mağazalara göre ucuz böyle yapamazsınız verilen paraya yazık
